@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "react-responsive",
-    "description": "api documentation for [react-responsive (v1.2.7)](http://github.com/contra/react-responsive) [![npm package](https://img.shields.io/npm/v/npmdoc-react-responsive.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-responsive) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-responsive.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-responsive)",
+    "description": "#### api documentation for  [react-responsive (v1.2.10)](http://github.com/contra/react-responsive)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-responsive.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-responsive) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-responsive.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-responsive)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "react-responsive": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
